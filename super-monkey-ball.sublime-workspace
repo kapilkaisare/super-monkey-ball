@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CLIENT_ID",
+				"CLIENT_ID_KEY"
+			],
+			[
+				"de",
+				"determineDirectionX"
+			],
+			[
+				"inner",
+				"innerRect"
+			],
+			[
+				"get",
+				"getOuterRect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"sesa",
+				"Sesame: Switch"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kapilkaisare/Projects/web-components/src/services/integrations/integratable.service.ts",
+		"/Users/kapilkaisare/Projects/web-components/src/index.html",
+		"/Users/kapilkaisare/Projects/web-components/readme.md",
+		"/Users/kapilkaisare/Projects/web-components/package.json",
+		"/Users/kapilkaisare/Library/Application Support/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/Users/kapilkaisare/Library/Application Support/Sublime Text/Packages/Sesame/Preferences.sublime-settings",
+		"/Users/kapilkaisare/Projects/web-components/src/components/kk-modal/kk-modal.css",
+		"/Users/kapilkaisare/Projects/web-components/src/components/kk-modal/kk-modal.tsx",
+		"/Users/kapilkaisare/Projects/web-components/src/demos/kk-modal.html",
+		"/Users/kapilkaisare/Projects/web-components/stencil.config.ts",
+		"/Users/kapilkaisare/Projects/ruby-experiments/temp.dat",
+		"/Users/kapilkaisare/Projects/site/content/journal/c2f.rb",
+		"/Users/kapilkaisare/Projects/site/content/pan-and-zoom-mechanics.md",
+		"/Users/kapilkaisare/Projects/site/content/pan-and-zoom-02.md",
+		"/Users/kapilkaisare/Projects/site/_data/metadata.json",
+		"/Users/kapilkaisare/Projects/site/.gitignore"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 122.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "super-monkey-ball.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
